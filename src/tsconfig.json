@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "/AngularJS-UserManagement/",
+    "baseUrl": "/usermanagement/",
     "declaration": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
